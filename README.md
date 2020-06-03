@@ -6,4 +6,4 @@ Uses the autograd library.
 
 ---
 ## Nice animations from code
-![1d descent](https://github.com/ofionnad/grad_descent/1d_descent.gif "1d descent")
+![1d descent](https://github.com/ofionnad/grad_descent/blob/master/1d_desc.gif "1d descent")
